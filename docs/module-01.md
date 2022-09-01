@@ -14,4 +14,4 @@ To download a ZIP file, click on a link to it; this will prompt your browswer to
 https://www.nimh.nih.gov/site-info/zip
 
 
-<img width="200" src="../img/img1.png"/>
+<img width="200" src="../images/zip.png"/>
