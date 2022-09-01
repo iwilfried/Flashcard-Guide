@@ -5,7 +5,7 @@
 
 As the world races to a new future, employers, educators, and teachers alike must be prepared to be innovative and create learning programs that suit the future needs of their students. So optimize your eLearning courses for mLearning today!
 
-Flash cards are one of the classic study tools, and for good reason – they promote studying through active recall, which is one of the practices through which our brains learn most effectively.  
+**Flashcards** are one of the classic study tools, and for good reason – they promote studying through active recall, which is one of the practices through which our brains learn most effectively.  
 
 
 
