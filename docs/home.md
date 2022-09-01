@@ -1,3 +1,17 @@
+Flash cards are one of the classic study tools, and for good reason – they promote studying through active recall, which is one of the practices through which our brains learn most effectively.
+
+However, many students use flash cards… well, I don’t want to say they use them the wrong way – but they use them in ways that aren’t very efficient. Some of the mistakes people make when making and studying flash cards include:
+
+Making them in a way that leverages only rote memorization
+Creating complex cards that don’t force true recall – which leads people to mistake recognition for actual knowledge
+Over-using flash cards, or using them when a different tool or study method would be more effective
+
+
+
+
+
+
+
 > # What’s Happening This Week
 > ## How to explore the problem space?
 > ### Important Reminders
