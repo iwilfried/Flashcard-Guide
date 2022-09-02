@@ -1,5 +1,5 @@
 <div align=left>
-<img width="400" src="./images/homeFlash-1.jpg" />
+<img width="200" src="./images/homeFlash-1.jpg" />
 </div>
 
 
