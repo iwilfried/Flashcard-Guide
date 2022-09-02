@@ -1,4 +1,8 @@
-![Flowchart](images/homeFlash.jpg)
+![Flowchart](images/homeFlash.jpg)  
+
+<div align=center>
+<img width="200" src="./img/homeFlash.jpg"/>
+</div>
 
 # What does a holistic user experience design process look like?
 
