@@ -1,5 +1,6 @@
 
 - [Install AL Studio](module-01)
+- [How to create a Flash Deck](module-02)
 
 - **LMS Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar](https://canvas.sfu.ca/courses/44038/calendar)
