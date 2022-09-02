@@ -1,4 +1,4 @@
-![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
+![Flowchart](images/homeFlash.jpg)
 
 # What does a holistic user experience design process look like?
 
