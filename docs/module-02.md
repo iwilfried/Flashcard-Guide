@@ -1,8 +1,8 @@
 
 ## How to create a new Deck  
 
-All Questions and Answers, Explanations, Text Styling you find in the **slides-de.json** or **slides-en.json** files. 
-
+All Questions and Answers, Explanations, Text Styling you'll find in the **slides-de.json** or **slides-en.json** file. 
+<br>  
 
 <div align=left>
 <img width="800" src="./images/homeFlash-1.jpg" />
