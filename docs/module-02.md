@@ -3,7 +3,7 @@
 
 All Questions and Answers, Explanations, Text Styling you'll find in the **slides-de.json** or **slides-en.json** file. 
 <br>  
-<br>  
+  
 
 
 <div align=left>
