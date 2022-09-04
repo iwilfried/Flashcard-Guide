@@ -4,7 +4,7 @@
 All Questions and Answers, Explanations, Text Styling you'll find in the **slides-de.json** or **slides-en.json** file. 
 <br>  
 <br>  
-<br>
+
 
 <div align=left>
 <img width="800" src="./images/homeFlash-1.jpg" />
@@ -16,9 +16,11 @@ See special text positions
 <img src="./images/deckDesc.jpg" />
 </div>  
 
+<br>  
+
 
 <div align=left>
-<img src="./images/deckDesc.jpg" />
+<img src="./images/json-01.jpg" />
 </div>  
 
 
