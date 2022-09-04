@@ -17,7 +17,9 @@ https://www.nimh.nih.gov/site-info/zip
 <img src="./images/zip.png"/>
 
 Bevor Sie beginnen
-Bevor Sie Firebase-Hosting einrichten können, müssen Sie ein Firebase-Projekt erstellen .
+Bevor Sie Firebase-Hosting einrichten können, müssen Sie ein Firebase-Projekt erstellen .  
+
+https://firebase.google.com/docs/hosting/quickstart
 
 Schritt 1 : Installieren Sie die Firebase-CLI
 Besuchen Sie die Firebase CLI-Dokumentation, um zu erfahren, wie Sie die CLI installieren oder auf die neueste Version aktualisieren .
@@ -45,12 +47,6 @@ Wenn Sie die Standardeinstellung auswählen und noch kein Verzeichnis mit dem Na
 
 Wenn Sie noch keine gültige index.html -Datei oder 404.html -Datei in Ihrem öffentlichen Stammverzeichnis haben, erstellt Firebase diese für Sie.
 
-Wählen Sie eine Konfiguration für Ihre Site.
+https://firebase.google.com/support/guides/launch-checklist  
 
-Wenn Sie sich für die Erstellung einer One-Page-App entscheiden, fügt Firebase automatisch Rewrite-Konfigurationen für Sie hinzu.
 
-Am Ende der Initialisierung erstellt Firebase automatisch zwei Dateien und fügt sie dem Stammverzeichnis Ihres lokalen App-Verzeichnisses hinzu:
-
-Eine firebase.json -Konfigurationsdatei, die Ihre Projektkonfiguration auflistet. Weitere Informationen zu dieser Datei finden Sie auf der Seite zum Konfigurieren des Hosting-Verhaltens .
-
-Eine .firebaserc -Datei, die Ihre Projektaliasnamen speichert.
