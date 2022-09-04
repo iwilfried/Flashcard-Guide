@@ -8,7 +8,9 @@ All Questions and Answers, Explanations, Text Styling you'll find in the **slide
 
 <div align=left>
 <img width="800" src="./images/homeFlash-1.jpg" />
-</div>
+</div>  
+<br>   
+
 
 See special text positions
  
@@ -20,7 +22,7 @@ See special text positions
 
 
 <div align=left>
-<img src="./images/json-01.jpg" />
+<img src="./images/json-file-01.jpg" />
 </div>  
 
 
