@@ -3,6 +3,8 @@
 
 All Questions and Answers, Explanations, Text Styling you'll find in the **slides-de.json** or **slides-en.json** file. 
 <br>  
+<br>  
+<br>
 
 <div align=left>
 <img width="800" src="./images/homeFlash-1.jpg" />
@@ -10,11 +12,14 @@ All Questions and Answers, Explanations, Text Styling you'll find in the **slide
 
 See special text positions
  
+<div align=left>
+<img src="./images/deckDesc.jpg" />
+</div>  
+
 
 <div align=left>
 <img src="./images/deckDesc.jpg" />
-</div>
-
+</div>  
 
 
 
